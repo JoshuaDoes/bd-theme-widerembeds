@@ -1,0 +1,12 @@
+//META{"name":"Wider Embeds","description":"Makes embeds in the chat area always full width.","author":"JoshuaDoes","version":"1.0"}*//
+
+.da-embed {
+	width: 100%;
+}
+.da-embedInner {
+	width: 100%;
+}
+
+/*
+  There are no user-customizable variables for this theme.
+*/
