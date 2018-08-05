@@ -23,4 +23,4 @@ The source code for Wider Embeds is released under the MIT License. See LICENSE 
 ## Donations
 If this helps you in any way (as it did me, hence its creation), feel free to donate. It motivates me to get off my feet and work on more projects like these (or any of [these](https://github.com/JoshuaDoes?tab=repositories)).
 
-[![Donate]](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/JoshuaDoes)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/JoshuaDoes)
